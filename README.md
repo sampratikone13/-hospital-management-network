@@ -141,10 +141,9 @@ Communication between departments is tested using ping:
 
 ## 👩‍💻 Project By-
 
-Samprati Tikone
-Saukhya Gaikwad
-Jiya Kanojiya
-Engineering Student – Information Technology  
+Samprati Tikone, 
+Saukhya Gaikwad, 
+Jiya Kanojiya 
 
 ---
 
